@@ -7,9 +7,9 @@ import random
 
 
 
-APITOKEN = "6723604252:AAEuxHBsoJwiPgEqBtIDluLIBBhEAyYFRF4"
+APITOKEN = "7095659201:AAG80x0_xYtqgD7xty30eoyt3Iwq--okhQY"
 bot = telebot.TeleBot(APITOKEN)
-admin = 1108915205
+admin = 5002238436
 def is_owner(user_id):
     return user_id == admin
 must_join = ['@InfinityHackersKE', '@InfinityBotsHub', '@Ihkmods']
